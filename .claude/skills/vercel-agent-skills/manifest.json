@@ -1,0 +1,7 @@
+﻿{
+    "version":  "1.0.0",
+    "description":  "React/Next.js",
+    "name":  "vercel-agent-skills",
+    "author":  "Community",
+    "repository":  "https://github.com/vercel-labs/agent-skills"
+}

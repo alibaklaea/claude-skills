@@ -1,0 +1,7 @@
+﻿{
+    "version":  "1.0.0",
+    "description":  "Supabase",
+    "name":  "supabase-agent-skills",
+    "author":  "Community",
+    "repository":  "https://github.com/supabase/agent-skills"
+}

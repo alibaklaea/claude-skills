@@ -1,0 +1,7 @@
+﻿{
+    "version":  "1.0.0",
+    "description":  "Resmi skills",
+    "name":  "anthropic-skills",
+    "author":  "Community",
+    "repository":  "https://github.com/anthropics/skills"
+}
